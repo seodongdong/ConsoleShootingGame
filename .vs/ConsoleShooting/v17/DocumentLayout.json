@@ -1,52 +1,52 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|solutionrelative:Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|solutionrelative:Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|solutionrelative:Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\ConsoleFramework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|solutionrelative:ConsoleFramework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|solutionrelative:Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|solutionrelative:Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|solutionrelative:Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\include.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\include.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|solutionrelative:include.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|solutionrelative:Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|solutionrelative:Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\ConsoleFramework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|solutionrelative:ConsoleFramework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|solutionrelative:Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{140D8217-9D99-4C05-8D4E-2E3D4A9CFBE6}|ConsoleShooting.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -62,30 +62,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Enemy.h",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Enemy.h",
-              "RelativeDocumentMoniker": "Enemy.h",
-              "ToolTip": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Enemy.h",
-              "RelativeToolTip": "Enemy.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-20T12:23:16.408Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Enemy.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Enemy.cpp",
               "RelativeDocumentMoniker": "Enemy.cpp",
-              "ToolTip": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Enemy.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Enemy.cpp",
               "RelativeToolTip": "Enemy.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAE4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-20T12:23:05.257Z",
               "EditorCaption": ""
@@ -93,76 +88,85 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Bullet.h",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Bullet.h",
-              "RelativeDocumentMoniker": "Bullet.h",
-              "ToolTip": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Bullet.h",
-              "RelativeToolTip": "Bullet.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Enemy.h",
+              "RelativeDocumentMoniker": "Enemy.h",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Enemy.h",
+              "RelativeToolTip": "Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-20T10:13:10.861Z",
+              "WhenOpened": "2025-02-20T12:23:16.408Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "Bullet.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Bullet.h",
+              "RelativeDocumentMoniker": "Bullet.h",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Bullet.h",
+              "RelativeToolTip": "Bullet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T10:13:10.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Bullet.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Bullet.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Bullet.cpp",
               "RelativeDocumentMoniker": "Bullet.cpp",
-              "ToolTip": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Bullet.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Bullet.cpp",
               "RelativeToolTip": "Bullet.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-20T10:12:33.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Player.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Player.h",
               "RelativeDocumentMoniker": "Player.h",
-              "ToolTip": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Player.h",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Player.h",
               "RelativeToolTip": "Player.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-18T13:57:08.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T13:57:08.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Player.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Player.cpp",
               "RelativeDocumentMoniker": "Player.cpp",
-              "ToolTip": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Player.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Player.cpp",
               "RelativeToolTip": "Player.cpp",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-18T13:57:02.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T13:57:02.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Bullet.h",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Bullet.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Bullet.h",
-              "ToolTip": "C:\\Users\\User\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Bullet.h",
-              "RelativeToolTip": "..\\..\\..\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Bullet.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShooting\\ConsoleShooting\\Bullet.h",
+              "RelativeDocumentMoniker": "..\\ConsoleShooting\\ConsoleShooting\\Bullet.h",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShooting\\ConsoleShooting\\Bullet.h",
+              "RelativeToolTip": "..\\ConsoleShooting\\ConsoleShooting\\Bullet.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-07T08:14:06.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "Bullet.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Bullet.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Bullet.cpp",
-              "ToolTip": "C:\\Users\\User\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Bullet.cpp",
-              "RelativeToolTip": "..\\..\\..\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Bullet.cpp",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAfAAAA",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShooting\\ConsoleShooting\\Bullet.cpp",
+              "RelativeDocumentMoniker": "..\\ConsoleShooting\\ConsoleShooting\\Bullet.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShooting\\ConsoleShooting\\Bullet.cpp",
+              "RelativeToolTip": "..\\ConsoleShooting\\ConsoleShooting\\Bullet.cpp",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-07T08:13:53.253Z"
             },
@@ -170,10 +174,10 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Player.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Player.h",
-              "ToolTip": "C:\\Users\\User\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Player.h",
-              "RelativeToolTip": "..\\..\\..\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Player.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShooting\\ConsoleShooting\\Player.h",
+              "RelativeDocumentMoniker": "..\\ConsoleShooting\\ConsoleShooting\\Player.h",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShooting\\ConsoleShooting\\Player.h",
+              "RelativeToolTip": "..\\ConsoleShooting\\ConsoleShooting\\Player.h",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-07T07:20:37.77Z"
@@ -182,62 +186,62 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Player.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Player.cpp",
-              "ToolTip": "C:\\Users\\User\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Player.cpp",
-              "RelativeToolTip": "..\\..\\..\\Documents\\Github\\ConsoleShooting\\ConsoleShooting\\Player.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShooting\\ConsoleShooting\\Player.cpp",
+              "RelativeDocumentMoniker": "..\\ConsoleShooting\\ConsoleShooting\\Player.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShooting\\ConsoleShooting\\Player.cpp",
+              "RelativeToolTip": "..\\ConsoleShooting\\ConsoleShooting\\Player.cpp",
               "ViewState": "AQIAADMAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-07T07:20:30.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Define.h",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Define.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Define.h",
               "RelativeDocumentMoniker": "Define.h",
-              "ToolTip": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\Define.h",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\Define.h",
               "RelativeToolTip": "Define.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAWAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-07T07:15:36.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ConsoleFramework.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\ConsoleFramework.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\ConsoleFramework.cpp",
               "RelativeDocumentMoniker": "ConsoleFramework.cpp",
-              "ToolTip": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\ConsoleFramework.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\ConsoleFramework.cpp",
               "RelativeToolTip": "ConsoleFramework.cpp",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAABgAAAAQAAAA",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-07T06:15:16.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "include.h",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\include.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\include.h",
               "RelativeDocumentMoniker": "include.h",
-              "ToolTip": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\include.h",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\include.h",
               "RelativeToolTip": "include.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAATAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-07T06:07:29.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\User\\Downloads\\0218\\ConsoleShooting-main\\main.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\ConsoleShootingGame\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-07T06:02:22.265Z",
               "EditorCaption": ""

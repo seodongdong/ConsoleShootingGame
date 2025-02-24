@@ -47,8 +47,6 @@ void BulletMove()
 		}
 
 	}
-
-
 }
 
 void BulletClipping()
