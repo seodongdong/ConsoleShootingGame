@@ -1,18 +1,18 @@
 #include "include.h"
-#include "stdlib.h"
-#include "time.h"
 
 Enemy enemys[D_ENEMY_MAX];
-int frameCount = 0;
-int frameInterval = 5;
+DWORD createEnemyTime;
+
+//int frameCount = 0;
+//int frameInterval = 5;
 
 void EnemyInit()
 {
 	for (int i = 0; i < D_ENEMY_MAX; i++)
 	{
-		enemys[i].bColor = BLACK;
+		enemys[i].bColor = RED;
 		enemys[i].fColor = RED;
-		enemys[i].body = '■';
+		enemys[i].body = ' ';
 		enemys[i].x = 0;
 		enemys[i].y = 0;
 		enemys[i].isAlive = false;
@@ -21,16 +21,25 @@ void EnemyInit()
 
 void EnemyUpdate()
 {
-	frameCount++;
-	
-	if (frameCount >= frameInterval)
-	{
-		CreateEnemy();
-		frameCount = 0;
-	}
+	//frameCount++;
+	//
+	//if (frameCount >= frameInterval)
+	//{
+	//	CreateEnemy();
+	//	frameCount = 0;
+	//}
 
+	// 1000 = 1초
+	if (GetTickCount() > createEnemyTime)
+	{
+		// 20시 10분 0.5초 
+		createEnemyTime = GetTickCount() + 500;
+		CreateEnemy(rand() % 120, -1);
+	}
+	
 	EnemyMove();
 	EnemyClipping();
+
 }
 
 void EnemyDraw()
@@ -69,21 +78,45 @@ void EnemyClipping()
 
 // 자동으로 만들 때 x값을 랜덤으로 해야함
 // x값 = 0 ~ 119 / y값 = -1 ~ 0
-void CreateEnemy()
+void CreateEnemy(int x, int y)
 {
-	int enemyCount = rand() % 10;
+	//int enemyCount = rand() % 10;
 
-	int x = rand() % 120;
-	int y = -1;
+	//int x = rand() % 120;
+	//int y = -1;
 
-	for (int i = 0; i < D_ENEMY_MAX && enemyCount > 0; i++)
+	for (int i = 0; i < D_ENEMY_MAX/*&& enemyCount > 0*/; i++)
 	{
 		if (enemys[i].isAlive == false)
 		{
 			enemys[i].x = x;
 			enemys[i].y = y;
 			enemys[i].isAlive = true;
-			enemyCount--;
+			break;
+			//enemyCount--;
 		}
 	}
+}
+
+void BulletEnemyCollision()
+{
+	for (int i = 0; i < D_BULLET_MAX; i++)
+	{
+		if (bullet[i].isAlive)
+		{
+			for (int j = 0; j < D_ENEMY_MAX; j++)
+			{
+				if (bullet[i].x == enemys[j].x && (bullet[i].y && enemys[j].y || bullet[i].y - 1 == enemys[j].y))
+				{
+					bullet[i].isAlive = false;
+					enemys[j].isAlive = false;
+					CreateEffect(enemys[j].x, enemys[j].y);
+					break;
+				}
+			}
+		}
+
+	}
+
+	
 }

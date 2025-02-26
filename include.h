@@ -6,6 +6,7 @@
 #include "Player.h"
 #include "Bullet.h"
 #include "Enemy.h"
+#include "Effect.h"
 
 void Init();
 void Update();

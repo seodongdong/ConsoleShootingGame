@@ -22,6 +22,9 @@
     <Filter Include="Enemy">
       <UniqueIdentifier>{86fcbfd3-584a-4763-8138-74489749951c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Effect">
+      <UniqueIdentifier>{c9c387b2-62d1-45db-84e8-0f940a35a209}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -39,6 +42,9 @@
     <ClCompile Include="Enemy.cpp">
       <Filter>Enemy</Filter>
     </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>Effect</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include.h">
@@ -55,6 +61,9 @@
     </ClInclude>
     <ClInclude Include="Enemy.h">
       <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>Effect</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
