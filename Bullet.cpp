@@ -7,7 +7,7 @@ void BulletInit()
 	for (int i = 0; i < D_BULLET_MAX; i++)
 	{
 		bullet[i].bColor = BLACK;
-		bullet[i].fColor = YELLOW;
+		bullet[i].fColor = GREEN;
 		bullet[i].body = '|';
 		bullet[i].x = 0;
 		bullet[i].y = 0;
