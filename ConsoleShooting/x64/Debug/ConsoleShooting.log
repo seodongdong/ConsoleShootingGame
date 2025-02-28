@@ -1,13 +1,2 @@
-﻿  Bullet.cpp
-  ConsoleFramework.cpp
-  Effect.cpp
-C:\Users\User\Documents\GitHub\ConsoleShootingGame\ConsoleFramework.cpp(53,17): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\User\Documents\GitHub\ConsoleShootingGame\ConsoleFramework.cpp(53,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\User\Documents\GitHub\ConsoleShootingGame\ConsoleFramework.cpp(59,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Documents\GitHub\ConsoleShootingGame\ConsoleFramework.cpp(73,17): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\User\Documents\GitHub\ConsoleShootingGame\ConsoleFramework.cpp(73,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-  Enemy.cpp
-  main.cpp
-  Player.cpp
-  코드를 생성하고 있습니다...
+﻿  Enemy.cpp
   ConsoleShooting.vcxproj -> C:\Users\User\Documents\GitHub\ConsoleShootingGame\x64\Debug\ConsoleShooting.exe

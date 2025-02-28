@@ -20,6 +20,7 @@ void Init()
 	BulletInit();
 	EnemyInit();
 	EffectInit();
+	TextInit();
 }
 void Update()
 {
@@ -28,6 +29,7 @@ void Update()
 	EnemyUpdate();
 	EffectUpdate();
 	BulletEnemyCollision();
+	TextUpdate();
 }
 void Draw()
 {
@@ -36,6 +38,7 @@ void Draw()
 	BulletDraw();
 	EnemyDraw();
 	EffectDraw();
+	TextDraw();
 	Flip();			// 화면 전환
 }
 void Release()

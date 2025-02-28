@@ -33,7 +33,7 @@ void EnemyUpdate()
 	if (GetTickCount() > createEnemyTime)
 	{
 		// 20Ω√ 10∫– 0.5√  
-		createEnemyTime = GetTickCount() + 500;
+		createEnemyTime = GetTickCount() + 300;
 		CreateEnemy(rand() % 120, -1);
 	}
 	
@@ -106,17 +106,21 @@ void BulletEnemyCollision()
 		{
 			for (int j = 0; j < D_ENEMY_MAX; j++)
 			{
-				if (bullet[i].x == enemys[j].x && (bullet[i].y && enemys[j].y || bullet[i].y - 1 == enemys[j].y))
+				if (enemys[j].isAlive)
 				{
-					bullet[i].isAlive = false;
-					enemys[j].isAlive = false;
-					CreateEffect(enemys[j].x, enemys[j].y);
-					break;
+					if (bullet[i].x == enemys[j].x && (bullet[i].y && enemys[j].y || bullet[i].y - 1 == enemys[j].y))
+					{
+						score++;
+						bullet[i].isAlive = false;
+						enemys[j].isAlive = false;
+						CreateEffect(enemys[j].x, enemys[j].y);
+						break;
+					}
 				}
+				
 			}
 		}
 
 	}
 
-	
 }

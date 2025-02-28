@@ -7,6 +7,7 @@
 #include "Bullet.h"
 #include "Enemy.h"
 #include "Effect.h"
+#include "Text.h"
 
 void Init();
 void Update();

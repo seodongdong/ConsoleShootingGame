@@ -76,6 +76,11 @@ void CreateBullet(int x, int y)
 			bullet[i].isAlive = true;
 			break;
 		}
+
+		if (score >= 50 && bullet[i].isAlive == false)
+		{
+
+		}
 	}
 
 
